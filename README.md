@@ -1,6 +1,6 @@
 # FlightPathOptimization
 
-This program is designed to create an optimal flight paths between two potential origin and destination cities. The focus of this methodology was to look at optimal flight paths for routes between Atlanta and Seattle, using existing waypoints.
+This program is designed to create an optimal flight paths between two potential origin and destination cities. The focus of this methodology was to look at optimal flight paths for routes between Atlanta and Seattle, using existing waypoints. More details can be found by reading my paper FlightPathOptimization.pdf.
 _____________________________________________________________________________________________________________________________
 
 ##Metholodgy Overview
