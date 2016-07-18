@@ -25,6 +25,8 @@ ________________________________________________________________________________
 
 ##Packages/Files Needed 
 
+* Python 2.7
+* Matlab 13a
 * xlrd (excel reader) 
 * networkx (graph theory operations)
 * haversine (lat and lon operations)
