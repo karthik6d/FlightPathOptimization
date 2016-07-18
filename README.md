@@ -25,10 +25,10 @@ ________________________________________________________________________________
 
 ##Packages/Files Needed 
 
--xlrd (excel reader) /n
--networkx (graph theory operations)/n
--haversine (lat and lon operations)/n
--pyexcel.cookbook (converts csv file to excel file)/n
--global_airports.xlsx (global airports lat and lon)/n
--getTableFromWeb_mod (Matlab HTML Table Reader)/n
--getHTMLTableData (Matlab HTML Table Reader)
+* xlrd (excel reader) /n
+* networkx (graph theory operations)/n
+* haversine (lat and lon operations)/n
+* pyexcel.cookbook (converts csv file to excel file)/n
+* global_airports.xlsx (global airports lat and lon)/n
+* getTableFromWeb_mod (Matlab HTML Table Reader)/n
+* getHTMLTableData (Matlab HTML Table Reader)
