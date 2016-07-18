@@ -46,3 +46,4 @@ ________________________________________________________________________________
 
 - *http://flightaware.com/live/flight/DAL2815/history/20160718/0629Z/KSEA/KATL/tracklog 
 - **Sample Data is provided (both already converted to excel files) for weather data on August 3rd, 2015 and flight data on July 31st, 2015
+- For both weather.m and FlightData.m, the file paths have been hard-coded because I used this code 1000's of time over the course of the project. A comment has been included to indicate where you must change the path ID. 
