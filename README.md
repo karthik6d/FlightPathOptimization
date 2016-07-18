@@ -21,6 +21,8 @@ In this project we seek to examine flight paths between two airports and to crea
 
 The methodology can be broken down into three sections: Data Collection; Model for Wind Interpolation and Application of a Shortest Path Algorithm. The methods proposed in this project were coded in python for the analysis and matlab for data collection.
 
+https://cloud.githubusercontent.com/assets/16376423/16917497/7f4fd732-4d1f-11e6-958f-b61aac7aea83.png
+
 _____________________________________________________________________________________________________________________________
 
 ##Packages/Files Needed 
