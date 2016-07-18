@@ -107,6 +107,7 @@ end
 
 for i = 1:6
     fileID = fopen(strcat('C:\Users\keshav\Documents\Network\Weather\', zones{i}, date,'.csv'), 'w');
+    %Must change file path
     formatSpec = '%s, %s, %s, %s, %s, %s, %s, %s, %s, %s';
     
     if i == 1
