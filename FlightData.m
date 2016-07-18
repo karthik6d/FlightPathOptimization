@@ -5,6 +5,7 @@ function [] = FlightData(url,flightnum,day);
 
 
 fileID = fopen(strcat('C:\Users\keshav\Documents\Network\data\', flightnum, day, '.csv'), 'w');
+%Must change the path name for personal use
 %Creates the CSV file for the tracker points
 
 formatSpec = '%s, %s, %s, %s, %s, %s, %s, %s, %s\n';    %Formatting specfications (all strings)
