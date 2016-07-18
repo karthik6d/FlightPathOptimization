@@ -3,7 +3,7 @@
 This program is designed to create an optimal flight paths between two potential origin and destination cities. The focus of this methodology was to look at optimal flight paths for routes between Atlanta and Seattle, using existing waypoints.
 _____________________________________________________________________________________________________________________________
 
-#Metholodgy Overview
+##Metholodgy Overview
 
 In this project we seek to examine flight paths between two airports and to create an effective and optimal route between the two cities. We examine paths between the cities of Atlanta and Seattle because of their geographic locations; the route is an east-west and north- south flight. In this project, we implement a shortest path algorithm to model fuel consumption along the different possible routes available between the two cities. The solution approach is modeled as follows:
 
