@@ -34,3 +34,15 @@ ________________________________________________________________________________
 * global_airports.xlsx (global airports lat and lon)
 * getTableFromWeb_mod (Matlab HTML Table Reader)
 * getHTMLTableData (Matlab HTML Table Reader)
+
+_____________________________________________________________________________________________________________________________
+
+## Getting Started
+
+1. Install the programs and packages listed above (I personally use IDLE for all python implmentations)
+2. Use the FlightData.m file to enter the FlightAware web address of tracker for the flight. A sample link is shown below. *
+3. Use the weather.m file to scrape data from the US Aviation Weather Center website. **
+4. FlightPathMain.py provides a variety of functions used to help create and design a shortest path for fuel between origin and destination 
+
+*http://flightaware.com/live/flight/DAL2815/history/20160718/0629Z/KSEA/KATL/tracklog 
+**Sample Data is provided (both already converted to excel files) for weather data on August 3rd, 2015 and flight data on July 31st, 2015
