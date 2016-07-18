@@ -44,5 +44,5 @@ ________________________________________________________________________________
 3. Use the weather.m file to scrape data from the US Aviation Weather Center website. **
 4. FlightPathMain.py provides a variety of functions used to help create and design a shortest path for fuel between origin and destination 
 
-*http://flightaware.com/live/flight/DAL2815/history/20160718/0629Z/KSEA/KATL/tracklog 
-**Sample Data is provided (both already converted to excel files) for weather data on August 3rd, 2015 and flight data on July 31st, 2015
+- *http://flightaware.com/live/flight/DAL2815/history/20160718/0629Z/KSEA/KATL/tracklog 
+- **Sample Data is provided (both already converted to excel files) for weather data on August 3rd, 2015 and flight data on July 31st, 2015
